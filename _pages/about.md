@@ -21,6 +21,7 @@ News
 > **Requirements**: 1) At least 2 full days per week; 2) Familiarity with Linux/PyTorch. Experience with C/C++ and distributed systems is a strong plus.
 
 
+- [2026.02] We have released our preprint [FlowPrefill](http://arxiv.org/abs/2602.16603), which alleviates Head-of-Line blocking in LLM serving.
 - [2025.11] I joined School of Computer & Communication Engineering of USTB!
 - [2025.08] Congratulations to Haoyu on the acceptance of our paper to SC'2025! 🎉
 - More...
