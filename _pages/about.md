@@ -30,7 +30,7 @@ Services
 ------
 **Program Committee Member**
 - HPC China, 2025
-- International Conference on Parallel Processing (ICPP), 2025
+- International Conference on Parallel Processing (ICPP), 2025, 2026
 - The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2023
 
 Awards
