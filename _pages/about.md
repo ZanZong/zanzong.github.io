@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zan Zong is currently an associate professor (特聘副教授) at the [School of Computer and Communication Engineering](https://scce.ustb.edu.cn/), University of Science and Technology Beijing. He conducted postdoctoral research from 2022 to 2025 in the [PACMAN lab](https://pacman.cs.tsinghua.edu.cn/) of Department of Computer Science and Technology at Tsinghua University, collaborating with Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/), prior to which he earned his Ph.D. in 2022 from the School of Software, Tsinghua University supervised by Prof. [Lijie Wen](https://www.thss.tsinghua.edu.cn/faculty/wenlijie.htm). His research focuses on high-performance AI systems. He has published a series of papers, and served as a reviewer for several international conferences/journals such as ATC, SC, TC, TPDS, TCC, JPDC, IPDPS, ICPP, etc. 
+Zan Zong is currently an associate professor at the [School of Computer and Communication Engineering](https://scce.ustb.edu.cn/), University of Science and Technology Beijing. He conducted postdoctoral research from 2022 to 2025 in the [PACMAN lab](https://pacman.cs.tsinghua.edu.cn/) of Department of Computer Science and Technology at Tsinghua University, collaborating with Prof. [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/), prior to which he earned his Ph.D. in 2022 from the School of Software, Tsinghua University supervised by Prof. [Lijie Wen](https://www.thss.tsinghua.edu.cn/faculty/wenlijie.htm). His research focuses on high-performance AI systems. He has published a series of papers, and served as a reviewer for several international conferences/journals such as ATC, SC, TC, TPDS, TCC, JPDC, IPDPS, ICPP, etc. 
 
 News
 ------
@@ -18,8 +18,8 @@ News
 > </div>
 > Seeking self-motivated students to build high-performance AI systems and HPC applications. If you are interested, please feel free to contact me. [View Projects](/portfolio) <br><br>
 > **What You Will Gain**: 1) Research guidance and opportunities for publications; 2) Collaboration with leading research teams in both industry and academia; 3) Access to computing resources for feasible research ideas.<br><br>
-> **Requirements**: 1) At least 2 full days per week; 2) Familiarity with Linux/PyTorch. Experience with C/C++ and distributed systems is a strong plus.
-
+> **Requirements**: 1) At least 3 full days per week; 2) Familiarity with Linux/Python/C/C++/PyTorch. Experience with GPU kernel development and distributed systems is a strong plus.
+- [2026.05] I have been invited to serve as the web chair of NPC 2026.
 - [2026.04] Congratulations to Yuyang on the acceptance of our paper to HPDC'2026! 🎉
 - [2026.03] I have been invited to serve as a PC member for ICPP 2026.
 - [2026.02] We have released our preprint [FlowPrefill](http://arxiv.org/abs/2602.16603), which alleviates Head-of-Line blocking in LLM serving.
@@ -29,10 +29,13 @@ News
 
 Services
 ------
+**Organizing Committee Member**
+- [Annual IFIP International Conference on Network and Parallel Computing(NPC, CCF-C)](https://npc-conference.github.io/), 2026, Web chair
+
 **Program Committee Member**
 - HPC China, 2025
-- International Conference on Parallel Processing (ICPP), 2025, 2026
-- The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2023
+- International Conference on Parallel Processing (ICPP, CCF-B), 2025, 2026
+- The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC, CCF-A), 2023
 
 Awards
 ------
