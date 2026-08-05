@@ -19,12 +19,13 @@ News
 > Seeking self-motivated students to build high-performance AI systems and HPC applications. If you are interested, please feel free to contact me. [View Projects](/portfolio) <br><br>
 > **What You Will Gain**: 1) Research guidance and opportunities for publications; 2) Collaboration with leading research teams in both industry and academia; 3) Access to computing resources for feasible research ideas.<br><br>
 > **Requirements**: 1) At least 3 full days per week; 2) Familiarity with Linux/Python/C/C++/PyTorch. Experience with GPU kernel development and distributed systems is a strong plus.
+- [2026.07] Congratulations to Mingshu on the acceptance of our paper to SC'2026! This work demonstrates scaling LLM training to over 10,000 accelerators! 🎉
 - [2026.05] I have been invited to serve as the web chair of NPC 2026.
 - [2026.04] Congratulations to Yuyang on the acceptance of our paper to HPDC'2026! 🎉
 - [2026.03] I have been invited to serve as a PC member for ICPP 2026.
 - [2026.02] We have released our preprint [FlowPrefill](http://arxiv.org/abs/2602.16603), which alleviates Head-of-Line blocking in LLM serving.
-- [2025.11] I joined School of Computer & Communication Engineering of USTB!
-- [2025.08] Congratulations to Haoyu on the acceptance of our paper to SC'2025! 🎉
+<!-- - [2025.11] I joined School of Computer & Communication Engineering of USTB! -->
+<!-- - [2025.08] Congratulations to Haoyu on the acceptance of our paper to SC'2025! 🎉 -->
 - More...
 
 Services
