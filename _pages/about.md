@@ -19,6 +19,7 @@ News
 > Seeking self-motivated students to build high-performance AI systems and HPC applications. If you are interested, please feel free to contact me. [View Projects](/portfolio) <br><br>
 > **What You Will Gain**: 1) Research guidance and opportunities for publications; 2) Collaboration with leading research teams in both industry and academia; 3) Access to computing resources for feasible research ideas.<br><br>
 > **Requirements**: 1) At least 3 full days per week; 2) Familiarity with Linux/Python/C/C++/PyTorch. Experience with GPU kernel development and distributed systems is a strong plus.
+- [2026.10] Our paper ModalPlex has been accepted to TC!
 - [2026.09] Our paper Bagualu-2 (八卦炉-2) has been selected as the [Best Academic Paper](https://mp.weixin.qq.com/s/ZJDfzY0H0W5MyXvTCPJXeg) of China Computational Power Conference 2026!
 - [2026.07] Congratulations to Mingshu on the acceptance of our paper to SC'2026! This work demonstrates scaling LLM training to over 10,000 accelerators! 🎉
 - [2026.05] I have been invited to serve as the web chair of NPC 2026.
